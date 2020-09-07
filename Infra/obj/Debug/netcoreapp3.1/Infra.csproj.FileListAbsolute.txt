@@ -1,0 +1,5 @@
+D:\DDD\Presentation\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+D:\DDD\Presentation\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+D:\DDD\Presentation\Infra\obj\Debug\netcoreapp3.1\Infra.csprojAssemblyReference.cache
+D:\DDD\Presentation\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+D:\DDD\Presentation\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
