@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Entities.Entities;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -7,6 +8,13 @@ namespace Infra.Configuration
 {
     public class BaseContext : DbContext
     {
+        public DbSet<Product> Product { get; set; }
+
+        public BaseContext()
+        {
+
+        }
+
         public BaseContext(DbContextOptions<BaseContext> options) : base(options)
         {
             Database.EnsureCreated();
@@ -22,7 +30,7 @@ namespace Infra.Configuration
 
         private string GetStringConnectionConfig()
         {
-            string strCon = "Data Source=DESKTOP-HVNTI80\\DESENVOLVIMENTO;Initial Catalog=DDD_2020_AULA;Integrated Security=False;User ID=sa;Password=1234;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False";
+            string strCon = "Server=localhost;DataBase=ddd;Uid=root;Pwd=Megas13@";
             return strCon;
         }
     }

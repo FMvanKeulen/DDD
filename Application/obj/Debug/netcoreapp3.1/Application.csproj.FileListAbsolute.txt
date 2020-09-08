@@ -1,0 +1,14 @@
+D:\DDD\Presentation\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\DDD\Presentation\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\DDD\Presentation\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\DDD\Presentation\Application\bin\Debug\netcoreapp3.1\Domain.dll
+D:\DDD\Presentation\Application\bin\Debug\netcoreapp3.1\Entities.dll
+D:\DDD\Presentation\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\DDD\Presentation\Application\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\DDD\Presentation\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+D:\DDD\Presentation\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\DDD\Presentation\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\DDD\Presentation\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\DDD\Presentation\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\DDD\Presentation\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\DDD\Presentation\Application\obj\Debug\netcoreapp3.1\Application.pdb

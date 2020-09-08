@@ -1,0 +1,9 @@
+D:\DDD\Presentation\Presentation\bin\Debug\netcoreapp3.1\Presentation.deps.json
+D:\DDD\Presentation\Presentation\bin\Debug\netcoreapp3.1\Presentation.dll
+D:\DDD\Presentation\Presentation\bin\Debug\netcoreapp3.1\Presentation.pdb
+D:\DDD\Presentation\Presentation\obj\Debug\netcoreapp3.1\Presentation.csprojAssemblyReference.cache
+D:\DDD\Presentation\Presentation\obj\Debug\netcoreapp3.1\Presentation.AssemblyInfoInputs.cache
+D:\DDD\Presentation\Presentation\obj\Debug\netcoreapp3.1\Presentation.AssemblyInfo.cs
+D:\DDD\Presentation\Presentation\obj\Debug\netcoreapp3.1\Presentation.csproj.CoreCompileInputs.cache
+D:\DDD\Presentation\Presentation\obj\Debug\netcoreapp3.1\Presentation.dll
+D:\DDD\Presentation\Presentation\obj\Debug\netcoreapp3.1\Presentation.pdb
